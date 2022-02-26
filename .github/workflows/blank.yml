@@ -6,7 +6,7 @@ on:BREE WYATT
   push: BREE WYATT
     branches: [ main ]
   pull_request: BREE WYATT
-    branches: [ main ]
+    branches: [documentation]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:BREE WYATT
