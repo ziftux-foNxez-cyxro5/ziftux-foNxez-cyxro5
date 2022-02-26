@@ -1,4 +1,4 @@
-👋🏾 I hope you are have a blessed day🙏🏾
+👋🏾 Hello, I hope you are having a blessed day🙏🏾
 
 - 🔭 I’m currently working on starting my brand and building a legacy for my family 
 - 🌱 I’m currently learning everything about self care, hair, nails, makeup, haircuts 
