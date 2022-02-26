@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ziftux-foNxez-cyxro5/ziftux-foNxez-cyxro5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+👋🏾 I hope you are have a blessed day 
 
 - 🔭 I’m currently working on starting my brand and building a legacy for my family 
 - 🌱 I’m currently learning everything about self care, hair, nails, makeup, haircuts 
